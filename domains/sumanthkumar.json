@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "Skarycloud",
+    "email": "sumanth.k.0202@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": true
+}
